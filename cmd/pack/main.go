@@ -1,6 +1,9 @@
 //who i am?
 //what i am doing where?
 //let's doing commits
+//not used
+//what is it?
+//what i need to do where?
 package main
 
 import (
