@@ -1,5 +1,6 @@
 //not used
 //what is it?
+//what i need to do where?
 package main
 
 import (
